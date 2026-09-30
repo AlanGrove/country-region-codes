@@ -2256,7 +2256,7 @@
     "alpha3": "SRB",
     "numeric": "688",
     "dialing_codes": [
-      "+381 p"
+      "+381"
     ],
     "region": "Europe",
     "subregion": "Southern Europe"
@@ -2373,7 +2373,7 @@
     "alpha3": "SHN",
     "numeric": "654",
     "dialing_codes": [
-      "+290 n"
+      "+290"
     ],
     "region": "Africa",
     "subregion": "Sub-Saharan Africa"
