@@ -1,0 +1,14 @@
+{
+  "name": "country-region-codes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "国家/地区代码列表：ISO 3166-1、国际电话区号与中英文名称",
+  "scripts": {
+    "update": "node scripts/update-data.mjs",
+    "check": "node scripts/validate-data.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
