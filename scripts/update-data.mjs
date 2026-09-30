@@ -60,7 +60,7 @@ const displayNamesEn = new Intl.DisplayNames(["en"], { type: "region" });
 const normalizeDialingCodes = (value) =>
   clean(value)
     .split(/[,;/]+/)
-    .map((code) => code.trim())
+    .map((code) => code.trim().replace(/\s+[a-z]$/i, ""))
     .filter(Boolean)
     .map((code) => (code.startsWith("+") ? code : `+${code}`));
 
