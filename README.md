@@ -200,7 +200,7 @@
 | 瑞士 | Switzerland | CH | CHE | 756 | +41 | Europe |
 | 萨尔瓦多 | El Salvador | SV | SLV | 222 | +503 | Americas |
 | 萨摩亚 | Samoa | WS | WSM | 882 | +685 | Oceania |
-| 塞尔维亚 | Serbia | RS | SRB | 688 | +381 p | Europe |
+| 塞尔维亚 | Serbia | RS | SRB | 688 | +381 | Europe |
 | 塞拉利昂 | Sierra Leone | SL | SLE | 694 | +232 | Africa |
 | 塞内加尔 | Senegal | SN | SEN | 686 | +221 | Africa |
 | 塞浦路斯 | Cyprus | CY | CYP | 196 | +357 | Asia |
@@ -209,7 +209,7 @@
 | 圣巴泰勒米 | St. Barthélemy | BL | BLM | 652 | +590 | Americas |
 | 圣诞岛 | Christmas Island | CX | CXR | 162 | +61 | Oceania |
 | 圣多美和普林西比 | São Tomé & Príncipe | ST | STP | 678 | +239 | Africa |
-| 圣赫勒拿 | St. Helena | SH | SHN | 654 | +290 n | Africa |
+| 圣赫勒拿 | St. Helena | SH | SHN | 654 | +290 | Africa |
 | 圣基茨和尼维斯 | St. Kitts & Nevis | KN | KNA | 659 | +1-869 | Americas |
 | 圣卢西亚 | St. Lucia | LC | LCA | 662 | +1-758 | Americas |
 | 圣马力诺 | San Marino | SM | SMR | 674 | +378 | Europe |
